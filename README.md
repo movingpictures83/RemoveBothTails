@@ -1,0 +1,2 @@
+# RemoveBothTails
+Remove sequence tails
