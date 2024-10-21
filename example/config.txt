@@ -1,0 +1,2 @@
+Prefix plugins/RemoveBothTails/example/
+Plugin RemoveBothTails inputfile parameters.removetails.txt outputfile Notwotails_LR.fa
